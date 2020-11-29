@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 80vw;
+}
